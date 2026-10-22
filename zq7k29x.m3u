@@ -1,32 +1,34 @@
 #EXTM3U
+#EXTINF:-1 aspect-ratio="original",AzTV
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoiYXp0diIsImlwIjoiNTcuMTUxLjEzNy4zNSIsInVhaCI6ImM1NDQ0ZjM1NjBmMTM3ZjYiLCJpYXQiOjE3OTI2NjMyOTgsImV4cCI6MTc5Mjc0OTY5OCwianRpIjoiMDIxNTAwNGY4MDM1ZDgzYyJ9.Jaj7FoQ3lDhJ5e8Ozup8142RDi1UL8N8UOGCM7kY8l8|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C4%B0dman_TV_%282019%29.png/250px-%C4%B0dman_TV_%282019%29.png" aspect-ratio="original",Idman TV
-https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoiYXp0dnBvcCIsImlwIjoiNDguMjE0LjU0LjU3IiwidWFoIjoiYzU0NDRmMzU2MGYxMzdmNiIsImlhdCI6MTc5MjY1NjE5MiwiZXhwIjoxNzkyNzQyNTkyLCJqdGkiOiJlOTI1Yjk0MTNjZmViZWM3In0.bo6yTuxsdHP0wADossGRbNyC8NgowoGVyG2bY8Lwc3I|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
+https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoiYXp0dnBvcCIsImlwIjoiNTcuMTUxLjEzNy4zNSIsInVhaCI6ImM1NDQ0ZjM1NjBmMTM3ZjYiLCJpYXQiOjE3OTI2NjMzMDUsImV4cCI6MTc5Mjc0OTcwNSwianRpIjoiYWY4NGYyMDZhOTM4ODU0NSJ9.39jd4oFj40DqeN4eUPgTj9mr3pxwcbri6d78hZ2wDW0|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Xazar_TV_Logo.png/250px-Xazar_TV_Logo.png" aspect-ratio="original",Xezer TV
-https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNDguMjE0LjU0LjU3IiwidWFoIjoiYzU0NDRmMzU2MGYxMzdmNiIsImlhdCI6MTc5MjY1NjE5OSwiZXhwIjoxNzkyNjU3OTk5LCJqdGkiOiI5ZDgyZTk4NTMyZGQ5YzJjIn0.eEY9cRlfwTxapNxZhosNteLV0PAeri6PAxdC7Oy4lUw|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
+https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNTcuMTUxLjEzNy4zNSIsInVhaCI6ImM1NDQ0ZjM1NjBmMTM3ZjYiLCJpYXQiOjE3OTI2NjMzMTEsImV4cCI6MTc5MjY2NTExMSwianRpIjoiNmM2ZGE4ZDU4OGQzOWEyNSJ9.nXOVm09y6JrD3ps7C0PILzp7j1UHcuTL3HXatXaTB9o|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://www.arbtv.az/assets/uploads/events/1.arbtv.png&w=250" aspect-ratio="original",ARB
-https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNDguMjE0LjU0LjU3IiwidWFoIjoiYzU0NDRmMzU2MGYxMzdmNiIsImlhdCI6MTc5MjY1NjIwNCwiZXhwIjoxNzkyNjU4MDA0LCJqdGkiOiJmODE3ZWYzMTA0MWM5YTg1In0.gNavF3J3bbu29UJNpmN7fsusyGSYhpdFCB8zMDAMSZY|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
+https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNTcuMTUxLjEzNy4zNSIsInVhaCI6ImM1NDQ0ZjM1NjBmMTM3ZjYiLCJpYXQiOjE3OTI2NjMzMTcsImV4cCI6MTc5MjY2NTExNywianRpIjoiZGZkZDc4M2NmYTFkZmViMSJ9.UEJjO9jteMncRZ9V4dLeKZkDbaoz2URsetr4-Nc0Rv4|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%C4%B0ctimai_TV_%282019-2020%29.png/250px-%C4%B0ctimai_TV_%282019-2020%29.png" aspect-ratio="original",İctimai TV
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/250px-Baku_TV_%282018%29.png" aspect-ratio="original",Baku TV
-https://str.yodacdn.net/bakutv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNDguMjE0LjU0LjU3IiwidWFoIjoiYzU0NDRmMzU2MGYxMzdmNiIsImlhdCI6MTc5MjY1NjIwOCwiZXhwIjoxNzkyNjU4MDA4LCJqdGkiOiJkMTUyMTUxMjkwMjkwZjY4In0.9oPUtG27oCEVuNK_f19YiyMQ3ODjfCh02po8djpqFtU|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
+https://str.yodacdn.net/bakutv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNTcuMTUxLjEzNy4zNSIsInVhaCI6ImM1NDQ0ZjM1NjBmMTM3ZjYiLCJpYXQiOjE3OTI2NjMzMTksImV4cCI6MTc5MjY2NTExOSwianRpIjoiNjc3NmE4NDZiNGEwYTIzMyJ9.lev0oqz4oKSCqrAIhEUfWwANfowW1gczmFL_D39yaCc|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Real_TV_loqosu_%282018%29.png/250px-Real_TV_loqosu_%282018%29.png" aspect-ratio="original",Real TV
-https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNDguMjE0LjU0LjU3IiwidWFoIjoiYzU0NDRmMzU2MGYxMzdmNiIsImlhdCI6MTc5MjY1NjIxMywiZXhwIjoxNzkyNjU4MDEzLCJqdGkiOiI3MTk0YWM4N2EzY2JiNmY1In0.VadmDijUhuRld9Cn5ZQvlX-B7q4dM1YSOT1FjNt1T2U|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
+https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNTcuMTUxLjEzNy4zNSIsInVhaCI6ImM1NDQ0ZjM1NjBmMTM3ZjYiLCJpYXQiOjE3OTI2NjMzMjEsImV4cCI6MTc5MjY2NTEyMSwianRpIjoiMDM5NmM4YjNhYjcwODk3NiJ9.Ye1tt6H2xDBp4FZfGt-7QqyobF5CeAc0L_CEPEitg98|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ARB_24_logo1.png/250px-ARB_24_logo1.png" aspect-ratio="original",ARB 24
-https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=01297ed80f72228551b8742c889a4ce6
+https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=3652d2065ee12e778cba25bd88e4dff4
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://apagroup.az/storage/news/one/65e5c5252a1fc65e5c5252a1fd170955702965e5c5252a1fa65e5c5252a1fb.jpg&w=250" aspect-ratio="original",APA TV
-https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNDguMjE0LjU0LjU3IiwidWFoIjoiYzU0NDRmMzU2MGYxMzdmNiIsImlhdCI6MTc5MjY1NjIzNSwiZXhwIjoxNzkyNjU4MDM1LCJqdGkiOiJjNGRiYmI1YWVjMTY1YmQxIn0.mGWFTHswYiOfPupl2o65gLRw9ij2eKXLO96r9R_lPq4|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
+https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNTcuMTUxLjEzNy4zNSIsInVhaCI6ImM1NDQ0ZjM1NjBmMTM3ZjYiLCJpYXQiOjE3OTI2NjMzNDIsImV4cCI6MTc5MjY2NTE0MiwianRpIjoiZTM5Yzg1Yzg4NmUwYmU4MyJ9.oYlk1jxKIop8x_nrgpWTSMqg5GABQ-f9cQSRMC9PR1A|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://tmb.tv/wp-content/uploads/2025/01/tmbtaz-png.png&w=250" aspect-ratio="original",TMB Azerbaycan
-https://str.yodacdn.net/tmbaz/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNDguMjE0LjU0LjU3IiwidWFoIjoiYzU0NDRmMzU2MGYxMzdmNiIsImlhdCI6MTc5MjY1NjI0MSwiZXhwIjoxNzkyNjU4MDQxLCJqdGkiOiI4YTM3ZDkxMWVhZjFhMTIxIn0.12pf2nXsqVLbuKamW_V3lkXHQL4DqsJfnW8MvaxWE3Y|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
+https://str.yodacdn.net/tmbaz/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNTcuMTUxLjEzNy4zNSIsInVhaCI6ImM1NDQ0ZjM1NjBmMTM3ZjYiLCJpYXQiOjE3OTI2NjMzNDYsImV4cCI6MTc5MjY2NTE0NiwianRpIjoiYWY5NWMyNGU1ZGRhZmEwZCJ9.eOQN8zEqKGUoFBD6QRVKhzDPiQTMiPZo4uVyjg_k_MQ|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/ARB_G%C3%BCn%C9%99%C5%9F_logo.png/250px-ARB_G%C3%BCn%C9%99%C5%9F_logo.png" aspect-ratio="original",ARB Gunes
-https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=01297ed80f72228551b8742c889a4ce6
+https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w646758121.m3u8?hash=3652d2065ee12e778cba25bd88e4dff4
 #EXTINF:-1 aspect-ratio="original",CBC
-https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=01297ed80f72228551b8742c889a4ce6
+https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=3652d2065ee12e778cba25bd88e4dff4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/M%C9%99d%C9%99niyy%C9%99t_TV_%282019%29.png/250px-M%C9%99d%C9%99niyy%C9%99t_TV_%282019%29.png" aspect-ratio="original",Medeniyyet Tv
-https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNDguMjE0LjU0LjU3IiwidWFoIjoiYzU0NDRmMzU2MGYxMzdmNiIsImlhdCI6MTc5MjY1NjI3NywiZXhwIjoxNzkyNjU4MDc3LCJqdGkiOiIzZDVlMmY5NTI1ODhhMzhkIn0.BomgBm8Kb74AoyKKYc5KSLC2EUK8R274gmn-2UHOP48|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
+https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNTcuMTUxLjEzNy4zNSIsInVhaCI6ImM1NDQ0ZjM1NjBmMTM3ZjYiLCJpYXQiOjE3OTI2NjMzODAsImV4cCI6MTc5MjY2NTE4MCwianRpIjoiNDgzZGZkZWJhZjgxNmM0YiJ9.s37Mo4nwDyIVCrjpu5wNOhreHL83gm0uJUe_GgxYewo|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
 #EXTINF:-1 aspect-ratio="original",Space TV
-https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNDguMjE0LjU0LjU3IiwidWFoIjoiYzU0NDRmMzU2MGYxMzdmNiIsImlhdCI6MTc5MjY1NjI4MSwiZXhwIjoxNzkyNjU4MDgxLCJqdGkiOiIyMTYwZjBlNWIyZmJlZjJmIn0.XZ9vnqMWZWw4X_0jXJ7iM84NQjZPjl-T8va3_BuaVJE|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
+https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNTcuMTUxLjEzNy4zNSIsInVhaCI6ImM1NDQ0ZjM1NjBmMTM3ZjYiLCJpYXQiOjE3OTI2NjMzODEsImV4cCI6MTc5MjY2NTE4MSwianRpIjoiYTY3OTdmMWU1NzU1N2FhOSJ9.x_LJlHa43HJkERP47ufNIwru8VAIFJxdXyHrrSOYazk|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/MTV_Azerbaijan_Logo.png/250px-MTV_Azerbaijan_Logo.png" aspect-ratio="original",MTV Azerbaijan
-https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNDguMjE0LjU0LjU3IiwidWFoIjoiYzU0NDRmMzU2MGYxMzdmNiIsImlhdCI6MTc5MjY1NjI4NCwiZXhwIjoxNzkyNjU4MDg0LCJqdGkiOiJlMzJjOWVhZGNjYzI5ZGYxIn0.tglNjIw8YrgCFiDmNCOJDpyMZCSrBWejoyAPRTEj08Y|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
+https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiNTcuMTUxLjEzNy4zNSIsInVhaCI6ImM1NDQ0ZjM1NjBmMTM3ZjYiLCJpYXQiOjE3OTI2NjMzODUsImV4cCI6MTc5MjY2NTE4NSwianRpIjoiMzc3ZDZhYjNlNjg1OWQ3YSJ9.VbLbrXcZoTLkE4JLeqo4y5EK25WXlUp1mbMpTRSSLyM|Origin=https://yodaplayer.yodacdn.net/&Referer=https://yodaplayer.yodacdn.net/&User-Agent=Mozilla/5.0
 #EXTINF:-1 aspect-ratio="original",ATV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/0/04/CBC_Sport_TV_loqo.png/250px-CBC_Sport_TV_loqo.png" aspect-ratio="original",CBC Sport
@@ -36,31 +38,31 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/4/4e/Kanal_D.png/250px-Kanal_D.png" aspect-ratio="original",Kanal D
 https://host3.onlineradyotv.net:8081/kanald/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/a/ae/Tv2_logo_%282026%29.png/250px-Tv2_logo_%282026%29.png" aspect-ratio="original",TV 2
-https://yayin2.canlitv.fun/live/teve2.stream/chunklist_w1842093765.m3u8?hash=01297ed80f72228551b8742c889a4ce6
+https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=3652d2065ee12e778cba25bd88e4dff4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/250px-Tv8_Yeni_Logo.png" aspect-ratio="original",TV8
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8usl1tlu4xya&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&ppid=e78db759d453061471bd94a493cb36a8&dfp_paln=AQzzBGQEOp-GrioroIzfdYD665VWilSiJm-A0AIyEaXnsGOfPucwxU-_CqxuSDumkQWMhCNdQrkOkZikYwuIgBlRTbnCfk6suXP2-yfeapwdy2FI7JEy-A50eJH-rGwGLcLc_-eNYOAxk_uzCDtObXP8KbhFNUF86YVSCeG2u7gXLqnt6vSW3BY786YgTBE0DQhEsFE5GGK9U5oDi-nLrPRUyirt53oy6X9kMJJ1yAWLbWitdWn65GHpNnxor8VVRnrEhSdgm6Z56Qy64Wam9t7GbjJzhvoiNjk4h_vapSgKIMjSVnqI_wGEmVFZF8AdnYKdL395wAwy1wfg5c5cSAm-yiKvF3jcvFGakxEkejCTovju0T4TqCdyIgrbVfiB5D1FmhQFCe0XleOxTmIfcOIlAJA9hQuaivPiPQDBHOcO4lwy2Uy8cuRZuFouqH0CJLx7hbgi14Q9X5-nM3QOwRk3PcAZ--3l35Niadwu74uJnhPHBrk48wM8BpkxJtU6Vuu49ABCHgOjM1eC5gmg9YXsPXWSR9Bqqhc2MIx-epdwo8TB_Z7GnLO_Lb9Js27LI-bVzTmXFxeQghLCv7ukX2b1kyARBadAJQWaHUTrMiNawGQxhSLACOkmt7EyAaJhe_5By5PlWvXkzv2oS1VcB4NOt_L-3N_OQU1gP0P7kCIg9Urc8WdI7cTrCTs6asQxvqt5tDmSqnSRrTPVGg_vznA-lEjJz6I0SYxImldm-SqFeyctIqLZDq7jMT1r24p0gzYRmY4AM0ieMhDlR6H-S9EawurplW3WqQHwUiQHcxUsz8aBHheZJDQ6jWc4dJkuLhzohMpWVF5jzztX57Utnv9T8ho_vtWYtXtiO8DGjFK4hDu3DO7wS-92MLyevprGcjiK50FT9Vvp5UsqXFfNJ_FD98E8HUp58lX6E_JrP4qTtDh8xQAeaZKyZd-e8POT_vbh6Nb0-9PvQ8hj5EDoKcPC5Iq_HKNcxfdJfhY5m-DEdHNk9qABFwsE2oMXCQ_ijLuGXsyXmkK0QcpQwzrRmqQH-SrvUamW_aXajKu7UHX35ka6zet-bXn1Xyz67vXuzPsBzil4L4c_v5LyySl_8mgLS0WkXcUXEZb0JgXPZiHOIF9bwHSUXia3cBs9gQsdQ64_NgXUubx5AfrgV5HuwPUNurGMeQ40ZLLWd8w1nQjPB7U0jEcGXBCXJP49Q5uTRPUh0lSf_hNRqVS4ukExDZ9HB-YmqzXuaMbGW9J2MYqD3pMvwqOyh0UWw0IxrAk-37CVUnDrWK1kixASOz55KO2PrL9LcsnJD1lwU0QtYkTIjD_Vq0LbFdTP1-06pNsbPki2fwFoGrpc85CvBXJLLIyLXgQrbQjkmbOXR-JdV6X63fJm
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://image.pngaaa.com/643/774643-middle.png&w=250" aspect-ratio="original",TV8,5
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8?hash=01297ed80f72228551b8742c889a4ce6
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_360p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logo_of_Show_TV.png/250px-Logo_of_Show_TV.png" aspect-ratio="original",Show TV
 https://yayin2.canlitv.fun/live/showtv.stream/chunklist_w2090257707.m3u8?hash=4b1c6f1b26a8f5c00d2f4cc01662890f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/250px-Show_Turk_logo.svg.png" aspect-ratio="original",Show Türk
-https://ciner.daioncdn.net/showturk/showturk_1080p.m3u8?ex=0&sid=8usl3kt403am&app=3a516c79-a14a-4585-9204-9080fb8ecb61&ce=2
+https://ciner.daioncdn.net/showturk/showturk_1080p.m3u8?ex=0&sid=8usvnskw5082&app=3a516c79-a14a-4585-9204-9080fb8ecb61&ce=2
 #EXTINF:-1 aspect-ratio="original",Show Max
-https://ciner-live.ercdn.net/showmax/showmax_720p.m3u8?e=1792663551&st=WqG1DZeoKHB-nkELC2YwEQ&tv=1
+https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1792670654&st=s1AvZ5FsJOZg4cEXFWsrsA&tv=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/9/92/Star_TV_.png/250px-Star_TV_.png" aspect-ratio="original",Star TV
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?token=cVBwZENaUjFnSmhkL3FSU2tOQkR2Sk5EVzRrVVRjYmF5cG1CbHFhWDFYRT0=&sid=8usl5da5k604&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&ce=3
+https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&token=RzhibGxzeDZOQ1loK1gxaXVNNUFtQld2aVkxNTdYd3FuQjZFSXRqamxmST0=&dfp_paln=AQzzBGQE_zumu_6A_hW6XySJam-cTnM15UFQSY78URkhL25fq1CRX65KC7pQdXAKzM4QXW5I-WeZj6BdqTccqvdZhYCnrHaDck6KAl6vR5YbPwroD-h_T3c_mvYxVNvnj7oa_Xu5yh8dEwTKwaZBP5ESjVf9gy1JKGBofPT6SPD2BQ3Mpr_p7u1FuH6WfcLN53MrCJ_9CgN6lYcXES3Fuzu3IKePnkNtsOq8kaJK141vwdSYQmK2pOktQBnsoZGkujoosPhD1CfTpzqmbYfr0ly0cI2nJRUNweMg4RVbEr3prZlNSw8BshTVKyz3m2tYvmacedKSFmVfzPZxee22OJlkRe-6QxX0ftY4CG_Zv1On1LxDLc0mlHV-WOtvI3UG_opL9sTTOH2ZPhjlZOhwUYx_BsSaykTI9QbMP90d22J0MqyBgkzg0ykCeEZfhTQAoo6ZuOyJAV-bGU7P4ulmjnuNbJxineGFWaqt7FTA7AFUEJxFnZywmCy5JhrHFIVVTfSoAkMCY4SjY3cWwigAUAAPjudzcXbcpfvUptTB6mF_KTlds1Ykr7WDwlEYG_Vx4p62_32Bklv-Wvbn--s89GbyaX1NPcxhJlKy2-oyzThOzrR-kBx-65MsbGcSoeZ9BFlt6IHJIMlSTsjxy5dBd0Cu9zjo2lkOuFqpWdW4YZsYIYgGp3ixQfoFG3KQ7vCeq5ghuVb3_Dk8JQozcIaR7uYc8EvP0fXURD1phhAS1KdEBn6a-JcZ6d7KMq3DlQEkFEyzI0H2etilm17jNL2K5OfOtGcXxS5kunN-A0TQSYrW2ygWD9DJkgZUlatbCpy3VVud6LuOd14YORHGxE6sHdzuG2hIU8ry9BoJa8_7LNzPjnxa-RTNAhms7OzwUrg6kWYpDwDIHrjgntz9JxlDAP07CtBV1l2oFxQ-B0a0CMhuHFvg-f5YI3gPBlt_xhR_89DyXFuQ1km4YNnEgxGQDVb6cjOKd_lVagqk-2clBqHFECas24GViWgGz93ywz1tVwAH9VzPdTSM6oteb7GxSowOYA..
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/3/37/Euro_Star_logosu.png/250px-Euro_Star_logosu.png" aspect-ratio="original",Euro Star
-https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live.m3u8?st=BetvuXsZTrgdz1cgJHV34w&e=1792742784
+https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_480p900000kbps/index.m3u8?st=dtEbgdD4up5IDph8-NscYw&e=1792749889
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/250px-Atv_logo_2010.svg.png" aspect-ratio="original",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=01297ed80f72228551b8742c889a4ce6
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/250px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" aspect-ratio="original",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7/v2/images/kanal7-logo-gray.svg" aspect-ratio="original",Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8?hash=01297ed80f72228551b8742c889a4ce6
+https://kanal7-live.daioncdn.net/kanal7/kanal7_360p.m3u8
 #EXTINF:-1 aspect-ratio="original",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://beyaztv.com.tr/images/logo.png&w=250" aspect-ratio="original",Beyaz TV
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3&ppid=d33e33e9ab8b11a2ccaf2c5f4c500b98&dfp_paln=AQzzBGQEHhjKl3NPnx8DMOA-Ij_mdy4tM_DfiF8hSw-aV2U2cQwelLR07dCNskPi_tDMAlXj3HUXWV0hKRnj-INbZZc799btxpW9VwXzz4e6UyUQOYaKI_bgmb_BUrcC-OPcRCg8ljIyO-Ccj4471cxRr1J6XsvrNlz6sORraQGFTypPsPIuDdaWy-COczmSGKngYplXgl2fpJ7VuLYMOnebs1HbXB-Xd0Onh-Po-CVBaZ15cMvnN9pzCFEZ6AGOvZAlA_ZBNWhtD5B4A-E9qeI937QepP5lpl6f6cRDcWoqc6KCVm8AhYEjiGz-NM6QTN6eRsyyFK5xQuN9gLq6kLlm0Jk5X4jMEz4-bmS3MqPDsh0Mmerqv_EJbeweh8ICbbhkJzkMP-SdKAbwCbOt5VLQBaYEcfGHkUyEBOM19m3wwMiIsEs8TCg97RYM7tbDZodea2qFam85f_SgRma-ohNpSPg4KoYibv_btxAUI4aXTKehnljN0PucECRxx7o3BwhGdMTOsryrm9AFFxrdPjQcRGIDtWbXYOgnKQ454PSWv0qY_kjJnaV3QThlWp13kzRcsNeBWYbNDNMxMuYnVSFr19gqzT9EP8k6wT4NgwC-rpiroFm5H-ELpwyNUUHYxgzRdL6q_sTImCa0EbCj2HhI0zvFyO4reAWhxZO0OJ6ghqM6kYzovoRb_4LB5V0sc910K1-AItlGc-AqVrMs8Zmfr8Nla6gm5cfPhTZ-EUplQ8_xknOeI_DC3A3ydF89wxjMo5mhW2g0HxtpP2ARhIIwjk89LvAb6QTCX5eDPcxaTasxsKa7AlcqCcwI1hHUbeNH5oh2oc59_F52cijtuHODrjJdCqDVwLhI12XYtAwhZmlbotLgYexqzyFOegG-Znj8Pl_n2mhtqA348ovVNS0t_ByT_baBiPi33R8HD8_wGQQDgWouN5HL5wha26CiSodKBSJExTZsiK6jZkj3tClTTb9XbR4-JaEiniwNvnO0r3T6AIkrrv2sWEu_kHZ6W3006i9DfxgNDFdFDEAOtgA0B8TbLbDS
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3&ppid=228cfb40fc64f426ea07ce559cd0c41f&dfp_paln=AQzzBGQED9P4bj5mx2RY7lyCR4sMeCBHBpVYP95zycnaV8KMX5qGKtNNsf6QsRJbC3YvsYYh3Z-pZDvzD8EeIyRR-TDwjNwFpMj3wXpvd2Qr6bCFWC9wUEpO2JwPjq8jlXIFrehmFgHJiwJY1r-DpRhYnkAuKsPA7jZvApyzmMhXnVu-NdV-Tuk4NdQlXOXhiTs7_hMmuK0KOBHiXNqdsacpAVsN4nxqR1nKGEgq1yNuIdXA6bN_M7j7q7oUhLWBodh3RkZh1Pg9DrRxUz5nsuG8a5AySg98dsBLNoVpi30dLllzkRGBmkt4XXvpYxg0sVvl-JQUhH6al-FAo8QTO4TuSXkdvIEnwwzqNP9lQrNgs94fc5dRIIT6U3f9wJTezmXr9IhVpt-OEijbx55e2KozmZzBLLyWGg78fpWcQ81Z4bePL2vUABV_HzDk7vuAFiYQaS8RweKk2FA6IFXfQWCGhqk2UBbAbIvGlhVNHNyqtxyFE6spKAjvVynN6lxywOxbl4ZsxhXbKou52NVpEuk3YhDazBccMzLU4b2E9JeZEWGLTWkoXlqzHTK9PYMzEBTiaHmCdaWxL3hl2zzUQYNs6HXM3zfkZQ7ztBBiTZ7S9pM8AJO1X64oVSMRP0YBodQu9K8HZGeMjTucpbkz5zIMCPdok9EOi69_u2iJ_TZxpamki4kcqlbWCt6diom_uEVt_awii2xPiWGSvlNcryo837jXNvIy6YKMvoZ6Oiv6eVWiQ5bVsaQmL5FNMUi5yIxWATE8CWVQRxWWc3t5gsDmywXNbHuECusSwW5wAy43hkSGGuuP1GOElHqqw_s4ZRkUAi9xXHa3sEmNIcDyp14tODZgUUO2LoiD7HB6kTqQV5MEfF28q-aVCXS9e5UbX5N25eSMCgZDthjOcoCjRDsGjOgAnJNWdikHoS9kLqFCp-365uNdkMoHfWivM-MwGTnmRBv8efudQk4AbCWsovOFsMVMmYa9mJrjocIZD6El-pTWI8UlWwC7tBVE1JZfGsETU0swH_0N9Al0EIsxh_9JJ8l5X9tWCZatFsfR4i3h5LuzracYutPGMMkPUvK9t6YCZ1hUeXCi7ouVgu2rTW-IHqV51Fpxqi5yKFOnVy1j_dWCEkDw3YHXee4go4u5DI6svaiJUiPojfe6e2p7-pB0LjGT4q40LEUdhtqHbJnyDV742yDJNeGiCUcSjOnI5ytWsuO3jDlp2_4YCpXxA-S3Sj21pZf_bOUVBv0msFzyr2nxRRTVajF657bJrkb2RIj_KKjRrcHThBsTg5wI_kkGLzVakNC9NFretRbISn7YbQqksaByjIcXZdIveGoZDWzmZA_1
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fwww.yirmidort.tv%2Fassets%2Fheader%2FlogoWhite.png&w=250&output=webp" aspect-ratio="original",TV 24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/250px-NTV_%28Turkey%29_logo.svg.png" aspect-ratio="original",NTV
@@ -70,13 +72,13 @@ https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-b
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://static.wikia.nocookie.net/logopedia/images/3/37/360-tr.png/revision/latest?cb=20220108145523&w=250" aspect-ratio="original",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TRT_Haber_kurumsal_logo_%282013-2020%29.png/250px-TRT_Haber_kurumsal_logo_%282013-2020%29.png" aspect-ratio="original",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TRT_T%C3%BCrk_logosu.png/250px-TRT_T%C3%BCrk_logosu.png" aspect-ratio="original",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cine-1-buyuk.png?rkt=DfS6Tgv6Hjr93k3&w=250" aspect-ratio="original",Cine 1
-https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=ZBiZCBLUwPCJVZFP8DaStV
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/kanal-26-buyuk.png?rkt=DfS6Tgv6Hjr93k3&w=250" aspect-ratio="original",Kanal 26
-https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8?hash=01297ed80f72228551b8742c889a4ce6
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8?hash=3652d2065ee12e778cba25bd88e4dff4
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcROTIVbojc-mOIxJ6tvyaUXXlk_AXF0AQL8RzWnWQburg%26s%3D10&w=250&output=webp" aspect-ratio="original",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTIoHKbWp3s90_cPxYcJTFzvDaDNcN0pfYFxCt79WhAzA%26s&w=250&output=webp" aspect-ratio="original",TV 4
@@ -94,9 +96,9 @@ https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1077003743.m3u8?has
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F2%2F25%2FDMAX_Logo_16_05_2011.jpg&w=250&output=webp" aspect-ratio="original",DMAX Türkiye
 https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w2095133286.m3u8?hash=4b1c6f1b26a8f5c00d2f4cc01662890f
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://static.dreamturk.com.tr/assets/dist/images/dream-turk-logoV2.png&w=250" aspect-ratio="original",Dream Turk
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_0_192/playlist.m3u8?&live=true&app=com.dreamturk&st=1sHLVkd5ahn8mJxxYiyNhA&e=1792667333
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_0_192/playlist.m3u8?&live=true&app=com.dreamturk&st=jJuglyIjv6j2iX5WT3AE_g&e=1792674438
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://www.numberone.com.tr/wp-content/uploads/2021/10/yeni-logonr1.png&w=250" aspect-ratio="original",NR 1 Turk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?md5=grGjwADFY6Yp1RU39roUIA&expires=1792742947
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?md5=FUUceYUaJ9lrLqfjluo47w&expires=1792750056
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TRT_M%C3%BCzik.svg/250px-TRT_M%C3%BCzik.svg.png" aspect-ratio="original",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://cdn-i.pr.trt.com.tr/trtcocuk/trtcocuk-logo.svg&w=250&format=png" aspect-ratio="original",TRT Cocuk
@@ -108,19 +110,19 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fba%2FCartoon_Network.svg&w=250&output=webp" aspect-ratio="original",Cartoon Network Türkiye
 https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w972762167.m3u8?hash=4b1c6f1b26a8f5c00d2f4cc01662890f
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/1280px-Rossiya-1_Logo.svg.png&w=250" aspect-ratio="original",Россия 1
-https://bl.rutube.ru/livestream/2742a3c42be661ea732705f80adb7bdd/index.m3u8?s=XWEvMHwpiPfvyGqt6kRafg&e=2092656579&scheme=https
+https://river-6-602.rtbcdn.ru/stream/genetta-320.m9.rutube.ru/1JjvpTvJ1lm_V9h87v-10g/1793268491/2742a3c42be661ea732705f80adb7bdd/1080p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwEh1y_xdq4L0p_s4f6olTcplgRn4Jl4ReFLYbQOaWIg&s&w=250" aspect-ratio="original",Первый канал
-https://river-m9-pitix-d3105.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/TM5_q38BL3eqTCvzAzyIYQ/1793261396/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+https://river-6-604.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/aEc6HvHmp_sjOkJO7CKkXg/1793268506/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/ru/thumb/6/68/%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.png/250px-%D0%9C%D0%B8%D1%80_%D0%A2%D0%92_logo.png&w=250" aspect-ratio="original",МИР 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff1%2FRBK_logo.svg%2F3840px-RBK_logo.svg.png&w=250&output=webp" aspect-ratio="original",РБК
 https://online-video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/user/1f/ec/1fec36d83dfaabbf819c84a5cb044858.jpg?size=s" aspect-ratio="original",НТВ
-https://river-6-602.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/hXGvUt8ka5HO6PZ-6M01og/1793261428/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=Wga-DCQ-4th_pe-FR72aCw&e=2092663737&scheme=https
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Ftvpedia%2Fimages%2F7%2F71%2F%25D0%259D%25D0%25A2%25D0%2592_%25D0%259C%25D0%25B8%25D1%2580_%2528%25D1%2581_2010%252C_%25D0%25B7%25D0%25B5%25D0%25BB%25D1%2591%25D0%25BD%25D1%258B%25D0%25B9_%25D1%2584%25D0%25BE%25D0%25BD%2529.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D20201214164414%26path-prefix%3Dru&w=250&output=webp" aspect-ratio="original",НТВ Мир
 https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/user/dd/0e/dd0e078410ed58d778b38164b3ccdc0d.jpg?size=s" aspect-ratio="original",Суббота
-https://river-6-603.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/u_8HGQZTRhDHxuAKHkLGYw/1793261444/310744c10a5809da38aa445c952976da/720p_stream.m3u8
+https://river-6-604.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/AltwTUnNvfh7xOHVKXfI3Q/1793268556/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg&w=250" aspect-ratio="original",Animal Planet HD
 http://stream.mcquack.net/114/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F7%2F7d%2FDa_vinci_learning_logo.jpg&w=250&output=webp" aspect-ratio="original",Da Vinci Learning
@@ -200,7 +202,7 @@ https://stream8.cinerama.uz/1427/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRu90KGLThsoHkQmJsBMiTKEDBvBB9GGmVs0_wAwtYyDQ%26s%3D10&w=250&output=webp" aspect-ratio="original",Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNRDrjRDKEJdaypnmg-uVj5CwXqGj1zCFtv36pp669w&s=10&w=250" aspect-ratio="original",Match TV
-https://river-6-601.rtbcdn.ru/stream/genetta-408.ntv.rutube.ru/bLZcR3xdyS16UnToVdSEWQ/1793261471/11bbbec75a2ceb8cf446ad16813c6eec/360p_stream.m3u8
+https://river-6-601.rtbcdn.ru/stream/genetta-408.ntv.rutube.ru/SZlPSLy2gxi4TAqZ5Kmqmw/1793268592/11bbbec75a2ceb8cf446ad16813c6eec/360p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https://images.seeklogo.com/logo-png/40/1/eurosport-logo-png_seeklogo-407861.png&w=250" aspect-ratio="original",Eurosport 1
 https://stream8.cinerama.uz/1439/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://ritsatv.ru/files/poster/original/900968.jpg&w=250" aspect-ratio="original",Eurosport 2
@@ -344,6 +346,6 @@ https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fwww.cableman.ru%2Fsites%2Fdefault%2Ffiles%2Ftochka_otryva_1.png&w=250&output=webp" aspect-ratio="original",Точка Отрыва
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F2%2F2c%2FTBS_2020.svg&w=250&output=webp" aspect-ratio="original",TBS USA
-https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb294/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjk0OjE3OTI2NzExMjAwOTQ6Y2RubGl2ZXR2LmlzOmQwNmMwYzIwYjQ2Mzk2N2MuMDQyZjRjOThmYjNkNzExNTZhNGE0NDA1YmIzMjY4Mjc5OGIzMTYzNTc2MGRlZDJlMDQ2ZWQxMzc4NjUyYzM2NA
+https://cdnlivetv.is/secure/api/v1/6a288d2781d8192bb76cb294/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjk0OjE3OTI2NzgyNDE2MjY6Y2RubGl2ZXR2LmlzOmIxNDZkYWNhM2NlODYxMGIuOWNiNmMyNGM5MGM1OGJmYzNkYzg3ZDQ3MTA4OTdlNTQ3OTRjOTkyNjQ2MWZhZDg0Y2RhMzExMGM2NjYyNzgwNg
 #EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTEQhW35WgGPEVGoowfwrULF3D67ns18-T2mdac-K8vLm5veW8TtumQBf4%26s%3D10&w=250&output=webp" aspect-ratio="original",The Walking Dead Universe
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/4300.m3u8
